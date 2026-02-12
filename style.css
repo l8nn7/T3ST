@@ -101,3 +101,13 @@ footer {
 	nav { padding: .75rem 1rem; }
 }
 
+/* Header image sizing */
+.header-image {
+	width: 50%;
+	max-width: 480px;
+	height: auto;
+	display: block;
+	margin: 0 auto 1rem;
+	border-radius: 8px;
+}
+
